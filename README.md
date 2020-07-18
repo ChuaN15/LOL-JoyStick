@@ -8,4 +8,4 @@ Joystick that support League of Legends. The project success to achieve first pr
 ![](https://raw.githubusercontent.com/ChuaN15/LOL-JoyStick/master/Capture1.PNG)
 
 # Controls
-![](https://raw.githubusercontent.com/ChuaN15/LOL-JoyStick/master/Capture.PNG) 
+![](https://raw.githubusercontent.com/ChuaN15/LOL-JoyStick/master/Capture.PNG)  
